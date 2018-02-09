@@ -56,10 +56,10 @@ align-items: center;
 
 nav {
   margin-left: 20pt;
-  color: green;
+  color: "green";
   border: 2px;
   border-style: solid;
-  background-color: yellow;
+  background-color: "yellow";
 }
 
 nav p {
@@ -113,7 +113,7 @@ footer p {
 .quotation p {
   font-style: italic;
   font-size: 20pt;
-  font-color: green;
+  font-color: "blue";
 }
 
 
