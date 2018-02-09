@@ -110,7 +110,7 @@ footer p {
   text-align: right;
 }
 
-.quotation p {
+p.quotation {
   font-style: italic;
   font-size: 20pt;
   color: blue;
