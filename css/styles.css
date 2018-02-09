@@ -105,15 +105,17 @@ footer {
   border-top: 1pt solid;
 }
 
-footer p {
-  font-size: 12pt;
-  text-align: right;
-}
-
 p.quotation {
   font-style: italic;
   font-size: 20pt;
   color: blue;
 }
+
+footer p {
+  font-size: 12pt;
+  text-align: right;
+}
+
+
 
 
