@@ -101,12 +101,6 @@ aside h2 {
   
 }
 
-p.quotation {
-  font-style: italic;
-  font-size: 20pt;
-  color: blue;
-}
-
 footer {
   border-top: 1pt solid;
 }
@@ -117,5 +111,9 @@ footer p {
 }
 
 
-
+.quotation p {
+  font-style: italic;
+  font-size: 20pt;
+  color: blue;
+}
 
