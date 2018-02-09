@@ -112,6 +112,8 @@ footer p {
 
 .quotation p {
   font-style: italic;
+  font-size: 20pt;
+  font-color: green;
 }
 
 
